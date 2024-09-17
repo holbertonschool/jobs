@@ -1,3 +1,3 @@
 # Applications
 
-Please add your application in this folder!
+Please add your application in this folder.
